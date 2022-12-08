@@ -1,0 +1,8 @@
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\bin\Debug\netcoreapp3.0\RedisCacheInfrastructure.deps.json
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\bin\Debug\netcoreapp3.0\RedisCacheInfrastructure.dll
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\obj\Debug\netcoreapp3.0\RedisCacheInfrastructure.csprojAssemblyReference.cache
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\obj\Debug\netcoreapp3.0\RedisCacheInfrastructure.AssemblyInfoInputs.cache
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\obj\Debug\netcoreapp3.0\RedisCacheInfrastructure.AssemblyInfo.cs
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\bin\Debug\netcoreapp3.0\RedisCacheInfrastructure.pdb
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\obj\Debug\netcoreapp3.0\RedisCacheInfrastructure.dll
+C:\Users\rpayc\source\repos\RedisCacheTest\RedisCacheInfrastructure\obj\Debug\netcoreapp3.0\RedisCacheInfrastructure.pdb
